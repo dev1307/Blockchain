@@ -1,0 +1,4 @@
+If Pip command unable to install flask on corp network usijn following sysnatx on python / IDE prompt to install
+
+
+pip --trusted-host=pypi.python.org --trusted-host=pypi.org --trusted-host=files.pythonhosted.org install <some_package>
